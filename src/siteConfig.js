@@ -1,19 +1,19 @@
 const raw = {
-  siteName: "{{SITE_NAME}}",
-  tagline: "{{TAGLINE}}",
-  aboutText: "{{ABOUT_TEXT}}",
-  primaryColor: "{{PRIMARY_COLOR}}",
-  service1: { title: "{{SERVICE1_TITLE}}", description: "{{SERVICE1_DESCRIPTION}}" },
-  service2: { title: "{{SERVICE2_TITLE}}", description: "{{SERVICE2_DESCRIPTION}}" },
-  service3: { title: "{{SERVICE3_TITLE}}", description: "{{SERVICE3_DESCRIPTION}}" },
+  siteName: "CarterRigert",
+  tagline: "Trey Test",
+  aboutText: "Treys test website",
+  primaryColor: "#b51a00",
+  service1: { title: "Pain management ", description: "Management of pain" },
+  service2: { title: "Sample service", description: "Sample" },
+  service3: { title: "", description: "" },
   contact: {
-    email: "{{CONTACT_EMAIL}}",
-    phone: "{{CONTACT_PHONE}}",
-    address: "{{CONTACT_ADDRESS}}"
+    email: "test@gmail.com",
+    phone: "5555555555",
+    address: "123 hood river"
   },
   social: {
-    instagram: "{{SOCIAL_INSTAGRAM}}",
-    facebook: "{{SOCIAL_FACEBOOK}}"
+    instagram: "https://google.com",
+    facebook: "https://google.com/"
   }
 };
 
